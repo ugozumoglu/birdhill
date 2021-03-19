@@ -1,2 +1,2 @@
-# This is a test project.
+# Personal projects are deployed here.
 Created by UG
